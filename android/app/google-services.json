@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "1082508191258",
+    "project_id": "nockupscreen",
+    "storage_bucket": "nockupscreen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082508191258:android:93f8999eda4b008f4653a3",
+        "android_client_info": {
+          "package_name": "com.nockup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082508191258-v1hrro2krsahtt33njq7nkbb2rq6pijt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5Ieq8hghEu2BwR5tAnfA8rQjJRSdXxxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082508191258-v1hrro2krsahtt33njq7nkbb2rq6pijt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1082508191258-h4ae05sbsaudhig11gfd8kfpm9r87srr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nockup"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082508191258:android:df63a135a32a05b64653a3",
+        "android_client_info": {
+          "package_name": "com.nockupscreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082508191258-v1hrro2krsahtt33njq7nkbb2rq6pijt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5Ieq8hghEu2BwR5tAnfA8rQjJRSdXxxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082508191258-v1hrro2krsahtt33njq7nkbb2rq6pijt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1082508191258-h4ae05sbsaudhig11gfd8kfpm9r87srr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nockup"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
