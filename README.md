@@ -1,5 +1,5 @@
 # coffee
-Coffee is an online Coffee shop app where users can order different types of coffee. 
+Coffee is an online Coffee shop app where users can order different types of coffee.  
 I developed Coffee App in pure React Native and use firebase as a backend.
 
  ## File Structure 
