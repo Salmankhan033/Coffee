@@ -1,7 +1,31 @@
 # coffee
+Coffee is an online Coffee shop app where users can order different types of coffee. 
+I developed Coffee App in pure React Native and use firebase as a backend.
 
-https://user-images.githubusercontent.com/58082294/145338801-8928e362-52fa-4001-91d0-affaaa546513.mp4
-
+ ## File Structure 
+ * asset
+   * fonts
+* src
+  * Firebase
+  * Screens
+  * context
+  * map
+  * navigation
+  * state
+    
+ 
+ ## Environment setup 
+ * Setup react native environment [here](https://reactnative.dev/docs/environment-setup)
+ 
+## How to run the app ?
+1. clone the code
+2. Open in Vs code 
+   1. Open Vs code Terminal and run:  
+   `npm install`
+   2. When install *node_modules* then run  
+   `npx react-native run-android` to run on android device 
+   
+## App Screenshot
 ### login screen
 If a user forgets their Password then click on forget password then it will go to forget the password.
 and if you have not account then click on Register here.  
@@ -48,7 +72,6 @@ In cart screen have user Cart items,user can delete any item
 
 <img src="https://user-images.githubusercontent.com/58082294/145338800-5f86ead1-400e-40a7-9625-6d861a594128.jpeg" alt="Drawing"  width="150" height="300"/>
 
-
-
+## App Video
 https://user-images.githubusercontent.com/58082294/145338801-8928e362-52fa-4001-91d0-affaaa546513.mp4
 
