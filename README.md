@@ -1,5 +1,7 @@
 # coffee
 
+https://user-images.githubusercontent.com/58082294/145338801-8928e362-52fa-4001-91d0-affaaa546513.mp4
+
 ### login screen
 If a user forgets their Password then click on forget password then it will go to forget the password.
 and if you have not account then click on Register here.  
@@ -11,6 +13,7 @@ In Forget Password screen you rest your password.
 
 ### Signup screen
 In Signup screen user register theirself 
+
 <img src="https://user-images.githubusercontent.com/58082294/145338798-885b031f-b662-458d-9eea-e09935ca5eb1.jpeg" alt="Drawing"  width="150" height="300"/>  
 
 ### Home screen  
@@ -19,16 +22,33 @@ when the user clicks on any coffee then it goes to the Detail screen.
 
 <img src="https://user-images.githubusercontent.com/58082294/145338792-25187e07-3a16-4751-afd4-5b314e40cb2d.jpeg" alt="Drawing"  width="150" height="300"/>
 
+### Detail screen  
+In Detail screen has All details about the selected coffee.
 
-![account](https://user-images.githubusercontent.com/58082294/145338782-a3c47949-b056-44fa-8739-dd70102c91c4.jpeg)
-![location](https://user-images.githubusercontent.com/58082294/145338786-d4e78592-ba81-4b58-8c92-479aa9d13624.jpeg)
-![home]()
-![forgatepassowrd]()
-![signup]()
-![login]()
-![cart](https://user-images.githubusercontent.com/58082294/145338800-5f86ead1-400e-40a7-9625-6d861a594128.jpeg)
+<img src="https://user-images.githubusercontent.com/58082294/145338862-e1f7a820-13ab-4fe1-bb7d-285a1a6c6c89.jpeg" alt="Drawing"  width="150" height="300"/>
+
+### Account Screeen
+when click on Account then Account screen will appear.
+In account screen users update their profile.
+
+<img src="https://user-images.githubusercontent.com/58082294/145338782-a3c47949-b056-44fa-8739-dd70102c91c4.jpeg" alt="Drawing"  width="150" height="300"/>
+
+### Location Screeen
+when click on Location then Location screen will appear.
+In Location screen have user location
+
+<img src="https://user-images.githubusercontent.com/58082294/145338786-d4e78592-ba81-4b58-8c92-479aa9d13624.jpeg" alt="Drawing"  width="150" height="300"/>
+
+### Drawer Navigation 
+
+<img src="https://user-images.githubusercontent.com/58082294/145338860-6191c50a-2752-4119-bbd1-afcc5627f112.jpeg" alt="Drawing"  width="150" height="300"/>
+
+### Cart Screen
+In cart screen have user Cart items,user can delete any item
+
+<img src="https://user-images.githubusercontent.com/58082294/145338800-5f86ead1-400e-40a7-9625-6d861a594128.jpeg" alt="Drawing"  width="150" height="300"/>
+
+
 
 https://user-images.githubusercontent.com/58082294/145338801-8928e362-52fa-4001-91d0-affaaa546513.mp4
 
-![drawer navigation](https://user-images.githubusercontent.com/58082294/145338860-6191c50a-2752-4119-bbd1-afcc5627f112.jpeg)
-![detail](https://user-images.githubusercontent.com/58082294/145338862-e1f7a820-13ab-4fe1-bb7d-285a1a6c6c89.jpeg)
